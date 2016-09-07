@@ -608,6 +608,7 @@ exports.By = by.By;
 exports.Capabilities = capabilities.Capabilities;
 exports.Capability = capabilities.Capability;
 exports.EventEmitter = events.EventEmitter;
+exports.TouchSequence = actions.TouchSequence;
 exports.FileDetector = input.FileDetector;
 exports.Key = input.Key;
 exports.Session = session.Session;
